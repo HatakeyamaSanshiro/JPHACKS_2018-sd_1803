@@ -23,5 +23,6 @@ etc...
 ・アームの制御  
   
 しかし、これらを統合することはできなかった  
-  
+![画像識別中の画面](https://user-images.githubusercontent.com/44067846/47263336-a356e300-d53a-11e8-84dc-2ea6cdf3a281.jpg)  
+![ロボットアーム](https://user-images.githubusercontent.com/44067846/47263353-f761c780-d53a-11e8-890d-de3e4e882976.jpg)  
 [各動作の様子](https://youtu.be/7BlktMyIaUY)
